@@ -1999,9 +1999,12 @@ input, select, textarea {
 		}
 
 		.features svg {
-			text-align: center;
 			width: 75px;
 			height: 75px;
+		}
+
+		.features div {
+			text-align: center;
 		}
 
 		.features section {
