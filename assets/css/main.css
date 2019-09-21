@@ -3898,6 +3898,16 @@ input, select, textarea {
 			font-size: 1.25em;
 		}
 
+		#intro img {
+			width: 100%;
+    	max-width: 300px;
+    	border-radius: 50%;
+    	height: auto;
+    	margin-left: auto;
+  	  /* margin-right: auto; */
+    	display: block;
+		}
+
 			@media screen and (max-width: 980px) {
 
 				#intro p br {
